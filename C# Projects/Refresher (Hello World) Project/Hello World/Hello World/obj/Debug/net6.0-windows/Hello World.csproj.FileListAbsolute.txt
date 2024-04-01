@@ -1,0 +1,17 @@
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.exe
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.deps.json
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.runtimeconfig.json
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.dll
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.pdb
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.AssemblyReference.cache
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello_World.HelloWorld.resources
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.GenerateResource.cache
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfo.cs
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.CoreCompileInputs.cache
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.dll
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\refint\Hello World.dll
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.pdb
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.genruntimeconfig.cache
+C:\WerkStaf\Personal Projects\C# Projects\Refresher (Hello World) Project\Hello World\Hello World\obj\Debug\net6.0-windows\ref\Hello World.dll

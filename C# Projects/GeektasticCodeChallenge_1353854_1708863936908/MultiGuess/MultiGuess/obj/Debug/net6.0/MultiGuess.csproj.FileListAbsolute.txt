@@ -1,0 +1,12 @@
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\bin\Debug\net6.0\wordlist.txt
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\bin\Debug\net6.0\MultiGuess.deps.json
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\bin\Debug\net6.0\MultiGuess.dll
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\bin\Debug\net6.0\MultiGuess.pdb
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.AssemblyInfoInputs.cache
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.AssemblyInfo.cs
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.csproj.CoreCompileInputs.cache
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.dll
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\refint\MultiGuess.dll
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\MultiGuess.pdb
+C:\WerkStaf\Personal Projects\C# Projects\GeektasticCodeChallenge_1353854_1708863936908\MultiGuess\MultiGuess\obj\Debug\net6.0\ref\MultiGuess.dll

@@ -1,0 +1,11 @@
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.AssemblyReference.cache
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.SuggestedBindingRedirects.cache
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\WerkStaf\Personal Projects\C# Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
